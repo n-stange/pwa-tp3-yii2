@@ -16,10 +16,10 @@ Grupo:
 
 ### Clonar Proyecto
 ```sh
-$ git clone https://github.com/n-stange/pwa-tp3-yii2 .
+$ git clone https://github.com/n-stange/pwa-tp3-yii2 
 $ cd pwa-tp3-yii2
 $ composer update
 ```
 ### Importar Base de Datos
   - En phpMyAdmin se crea una nueva base de datos con el nombre: yii2_tp2
-  - En phpMyAdmin con la nueva base de datos, se importa el archivo yii2_tp2.sql que se encuentra en la carpeta database
+  - En phpMyAdmin con la nueva base de datos, se importa el archivo yii2_tp2.sql que se encuentra en la carpeta /database
