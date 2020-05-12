@@ -14,3 +14,9 @@ Grupo:
   - Marcos Benitez
   - Norberto Stange
 
+### Clonar Proyecto
+```sh
+$ git clone https://github.com/n-stange/pwa-tp3-yii2 .
+$ cd pwa-tp3-yii2
+$ composer update
+```
